@@ -34,5 +34,9 @@ Then open another cmd and run:
 
 python predict_test.py
 
+Deployment:
+
+url = "http://localhost:9696/predict"
+
 The images of the last two steps are loaded into the folder (Image_1 and Image_2).
 
